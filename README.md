@@ -1,18 +1,18 @@
-Emoji Search
+Emoji Search Master
 ---
 
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+Created with *create-react-app*.
 
 
 
-Install
+First command-Install
 ---
 
 `npm install`
 
 
 
-Usage
+Second commad-Usage
 ---
 
 `npm start`
